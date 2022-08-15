@@ -7,7 +7,7 @@ public class AsteriskPyramid {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner(System.in);
-		System.out.println("Enter how many lines you would like to see: ");
+		System.out.println("Enter to see how many lines you would like to see: ");
 		int lines = scanner.nextInt();
 		System.out.println();
 		scanner.close();
@@ -21,8 +21,7 @@ public class AsteriskPyramid {
 			}
 			System.out.println();
 		}
-		
-
+		 
 	}
 
 }
